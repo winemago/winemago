@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piero
 - 👀 I’m interested in keep learning
-- 🌱 I’m currently learning: React - Node
+- 🌱 I’m currently learning: java
 - 📫 How to reach me pieromdq@gmail.com
 
 <!---
